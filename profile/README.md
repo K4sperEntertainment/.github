@@ -19,9 +19,8 @@ If you want to support our work, you can become a patron or support us directly 
 
 ## 🏆 Team Members
 <p align="center">
-<img width="420" src=https://github-readme-stats.vercel.app/api?username=VladWhiteK&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=06080a&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
+<img width="420" src=https://github-readme-stats.vercel.app/api?username=VladWhiteK&count_private=true&show_icons=true&title_color=ffffff&text_color=91989e&icon_color=ffffff&hide_border=true&bg_color=25,3b3b3b,242424&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
 </p>
 <p align="center">
-<img width="360" src=https://github-readme-stats.vercel.app/api?username=W0lfat&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=06080a&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
-<img width="360" src=https://github-readme-stats.vercel.app/api?username=alexandrubo&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&bg_color=06080a&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
+<img width="360" src=https://github-readme-stats.vercel.app/api?username=alexandrubo&count_private=true&show_icons=true&title_color=ffffff&text_color=91989e&icon_color=ffffff&hide_border=true&bg_color=25,3b3b3b,242424&layout=compact&hide_title=false&hide_rank=false&include_all_commits=true>
 </p>
